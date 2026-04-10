@@ -1,5 +1,7 @@
 # 🔒 AI Platform (Confidential, NDA)
 
+> 🔒 This project is presented in a limited format due to NDA restrictions.
+
 Confidential AI platform: end-to-end system design, computer vision models, and production-level ML pipeline (details restricted under NDA)
 
 ---
@@ -9,8 +11,6 @@ Confidential AI platform: end-to-end system design, computer vision models, and 
 This project represents a full-scale AI platform developed independently from scratch, combining computer vision, machine learning, and system-level engineering.
 
 The platform was designed as an end-to-end solution covering the full lifecycle of AI systems: from data processing and model training to deployment and intelligent interaction.
-
-> Note: Detailed implementation, datasets, and code are not publicly available due to NDA restrictions.
 
 ---
 
