@@ -6,11 +6,21 @@ Confidential AI platform: end-to-end system design, computer vision models, and 
 
 ## 🚀 Overview
 
-This project represents a full-scale AI platform developed from scratch, combining computer vision, machine learning, and system-level engineering.
+This project represents a full-scale AI platform developed independently from scratch, combining computer vision, machine learning, and system-level engineering.
 
 The platform was designed as an end-to-end solution covering the full lifecycle of AI systems: from data processing and model training to deployment and intelligent interaction.
 
 > Note: Detailed implementation, datasets, and code are not publicly available due to NDA restrictions.
+
+---
+
+## 📊 Engineering Scope
+
+- Independently developed and maintained the system over ~1.5+ years  
+- Built multiple iterations of models and system components  
+- Designed architecture for scalability and future expansion  
+- Worked with real-world data and production-like constraints  
+- Iteratively improved system performance and reliability  
 
 ---
 
@@ -33,16 +43,27 @@ The architecture is designed for scalability, flexibility, and integration of mu
 - Developed computer vision models for domain-specific tasks  
 - Implemented object detection / pattern recognition pipeline  
 - Processed and analyzed visual data  
-- Built inference pipeline for real-time or batch predictions  
+- Built inference pipeline for real-time and batch predictions  
 
 ---
 
 ## 🤖 Custom Model Development
 
-- Designed custom neural network architecture  
+- Designed custom neural network architecture beyond standard approaches  
 - Trained models on real-world data  
 - Performed model evaluation and tuning  
-- Improved performance through architecture optimization  
+- Improved performance through architecture optimization and iterative refinement  
+- Explored trade-offs between accuracy, speed, and scalability  
+
+---
+
+## 🧪 Research & Optimization
+
+- Conducted experimental model development and evaluation  
+- Explored multiple architectural approaches and configurations  
+- Improved model performance through iterative experimentation  
+- Worked with real-world constraints: data quality, variability, and scaling  
+- Applied systematic optimization strategies  
 
 ---
 
@@ -63,7 +84,7 @@ End-to-end pipeline includes:
 - End-to-end AI system design  
 - Computer vision processing  
 - Model integration into applications  
-- Scalable architecture  
+- Scalable system architecture  
 - Real-world data handling  
 - Multi-component AI system orchestration  
 
@@ -71,11 +92,12 @@ End-to-end pipeline includes:
 
 ## 🧩 My Role
 
-- Designed system architecture  
-- Developed AI models and pipelines  
-- Implemented backend logic and integration  
-- Built full-stack AI system (models + backend + logic)  
-- Optimized system performance  
+- Independently designed and developed the entire AI platform  
+- Owned full system architecture and technical decisions  
+- Built and integrated AI models, backend, and system logic  
+- Implemented end-to-end pipeline without external dependencies  
+- Managed all stages: design → development → optimization → integration  
+- Optimized system performance and scalability  
 
 ---
 
