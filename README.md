@@ -153,4 +153,4 @@ This project reflects both engineering execution and applied research capabiliti
 ## 👤 Author
 
 Svetlana Rumyantseva  
-AI Systems Engineer
+AI Systems Engineer | Machine Learning | Computer Vision
